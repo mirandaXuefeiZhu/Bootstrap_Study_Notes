@@ -1,0 +1,5 @@
+ /* use css for the class "btn-success" to change the color or other properties of the button */
+/* only this part will be overwriten */
+.btn-success{
+  background-color: color :  red;
+}
